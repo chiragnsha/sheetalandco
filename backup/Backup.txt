@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sheetal & Co.</title>
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/custom.css">
+</head>
+<body  class="container">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+
+
+	<header>
+		<div class="row top-buffer">
+	    	<div class="col-lg-6">
+	    		<img src="images/companylogo.jpg" class="responsive" alt="Company logo">
+	    	</div>
+	    	<div class="col-lg-3 col-lg-offset-2">
+	    		<img src="images/ca.jpg" class="responsive" alt="CA logo">
+	    	</div>
+	    </div>
+	</header>
+
+	<nav class="row">
+		<ul class="nav   nav-pills nav-justified">
+			<li><a href="#">Item 1</a></li>
+			<li class="active"><a href="#">Item 2</a></li>
+			<li><a href="#">Item 3</a></li>
+			<li><a href="#">Item 4</a></li>
+		</ul>
+			
+
+	</nav>
+	<aside class="row top-buffer jumbotron ">
+		<div class="pull-left">
+			<img src="images/profilephoto.jpg">
+		</div>
+		<div class="">
+			<h3>The heading goes here, apply font and colr</h3>
+			<p class="top-buffer ">
+			This is the paragraph a brief intro. simple one, changes fornt and color  :)
+			sffkshck scjksjh chiars g safdlsf slf  last siskfxvv hi how are you im fine hopw you to are finwe sfdglad you are here asdfkj fi forgot to add spaced in between sorruy for that sdfjkasdf the speed is too slow so type a little fastt.
+			</p>
+			<h6  class="pull-right">End it with  a nice quote may be pulled right  thin font</h6>
+		</div>
+	</aside>
+	<article id="content" class="row top-buffer">
+		<div class="col-lg-3">
+			<h3>Column 1</h3>
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd vvvvzzaassdvsd
+		 sdffsd sfsdfsd sdffsd sfsdfsd vvvsdffsd sfsdfsd sdffsd sfsdfsd sddsdsvvzxccdsfgsdvcv
+			
+		</div>
+		<div class="col-lg-3">
+			<h3>Column 2</h3>
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd vvvvzzaassdvsd
+		 sdffsd sfsdfsd sdffsd sfsdfsd vvvsdffsd sfsdfsd sdffsd sfsdfsd sddsdsvvzxccdsfgsdvcv
+			
+		</div>
+		<div class="col-lg-3">
+			<h3>Column 3</h3>
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd vvvvzzaassdvsd
+		 sdffsd sfsdfsd sdffsd sfsdfsd vvvsdffsd sfsdfsd sdffsd sfsdfsd sddsdsvvzxccdsfgsdvcv
+			
+		</div>
+		<div class="col-lg-3">
+			<h3>Column 4</h3>
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd vvvvzzaassdvsd
+		 sdffsd sfsdfsd sdffsd sfsdfsd vvvsdffsd sfsdfsd sdffsd sfsdfsd sddsdsvvzxccdsfgsdvcv
+			
+		</div>
+	</article>
+	<div id="content" class="row top-buffer">
+		<div class="col-lg-3">
+			<h3>Column 1</h3>
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd vvvvzzaassdvsd
+		 sdffsd sfsdfsd sdffsd sfsdfsd vvvsdffsd sfsdfsd sdffsd sfsdfsd sddsdsvvzxccdsfgsdvcv
+			
+		</div>
+		<div class="col-lg-3">
+			<h3>Column 2</h3>
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd vvvvzzaassdvsd
+		 sdffsd sfsdfsd sdffsd sfsdfsd vvvsdffsd sfsdfsd sdffsd sfsdfsd sddsdsvvzxccdsfgsdvcv
+			
+		</div>
+		<div class="col-lg-3">
+			<h3>Column 3</h3>
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd vvvvzzaassdvsd
+		 sdffsd sfsdfsd sdffsd sfsdfsd vvvsdffsd sfsdfsd sdffsd sfsdfsd sddsdsvvzxccdsfgsdvcv
+			
+		</div>
+		<div class="col-lg-3">
+			<h3>Column 4</h3>
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd 
+		 sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd sdffsd sfsdfsd vvvvzzaassdvsd
+		 sdffsd sfsdfsd sdffsd sfsdfsd vvvsdffsd sfsdfsd sdffsd sfsdfsd sddsdsvvzxccdsfgsdvcv
+			
+		</div>
+	</div>
+	<footer>
+		<small>This is the footer.  Copyright stuff and all.</small>
+
+	</footer>
+
+</body>
+</html>
